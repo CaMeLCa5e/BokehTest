@@ -15,7 +15,6 @@ p = figure(title="Histogram", background_fill="#E8DDCB")
 p.quad(top=hist, bottom=0, left=edges[:-1], right=edges[1:],
      fill_color="#036564", line_color="#033649")
 
-# customize axes
 xa, ya = p.axis
 xa.axis_label = 'x'
 ya.axis_label = 'Pr(x)'
