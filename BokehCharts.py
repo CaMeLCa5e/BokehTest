@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+"""Charts"""
+
 import numpy as np
 from bokeh.plotting import figure, output_file, show
 
