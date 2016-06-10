@@ -20,6 +20,11 @@ p = figure(
 )
 
 
+
+
+
+
+
 #create plots 
 p.line(x0, x0, legend="y=x")
 p.circle(x0, x0, legend="y=x")

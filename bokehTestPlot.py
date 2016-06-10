@@ -5,7 +5,11 @@
 # y = [6,5,2,7,8]
 
 # #output to static HTML file 
-# output_file("lines.html", title="line plot example")
+# 
+
+
+
+output_file("lines.html", title="line plot example")
 
 # #plot a 'line' renderer setting the color, line thickness, title, and legend value
 
